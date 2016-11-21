@@ -1,0 +1,8 @@
+F:\Projects\Chat\ConsoleServer\bin\Release\ConsoleServer.exe.config
+F:\Projects\Chat\ConsoleServer\bin\Release\ConsoleServer.exe
+F:\Projects\Chat\ConsoleServer\bin\Release\ConsoleServer.pdb
+F:\Projects\Chat\ConsoleServer\bin\Release\ClientContract.dll
+F:\Projects\Chat\ConsoleServer\bin\Release\ClientContract.pdb
+F:\Projects\Chat\ConsoleServer\obj\Release\ConsoleServer.csprojResolveAssemblyReference.cache
+F:\Projects\Chat\ConsoleServer\obj\Release\ConsoleServer.exe
+F:\Projects\Chat\ConsoleServer\obj\Release\ConsoleServer.pdb

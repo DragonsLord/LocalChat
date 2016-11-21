@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="d62d4b2a-8858-4ae7-a3ac-f643b4ae4317" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>false</ReferenceAllAssemblies>
+    <ReferencedAssemblies>
+      <ReferencedAssembly AssemblyName="Microsoft.CSharp" />
+      <ReferencedAssembly AssemblyName="mscorlib" />
+      <ReferencedAssembly AssemblyName="PresentationCore" />
+      <ReferencedAssembly AssemblyName="PresentationFramework" />
+      <ReferencedAssembly AssemblyName="System" />
+      <ReferencedAssembly AssemblyName="System.Core" />
+      <ReferencedAssembly AssemblyName="System.Data" />
+      <ReferencedAssembly AssemblyName="System.Data.DataSetExtensions" />
+      <ReferencedAssembly AssemblyName="System.ServiceModel" />
+      <ReferencedAssembly AssemblyName="System.Windows.Forms" />
+      <ReferencedAssembly AssemblyName="System.Xaml" />
+      <ReferencedAssembly AssemblyName="System.Xml" />
+      <ReferencedAssembly AssemblyName="System.Xml.Linq" />
+      <ReferencedAssembly AssemblyName="WindowsBase" />
+    </ReferencedAssemblies>
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="net.tcp://tardis:8733/ChatProvider/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="d9a47f7d-de51-4917-98e0-e79fdd844db2" SourceId="1" SourceUrl="net.tcp://tardis:8733/ChatProvider/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="bb4d25cf-92dd-49d1-81a5-7f6ce399a6c4" SourceId="1" SourceUrl="net.tcp://tardis:8733/ChatProvider/mex" />
+    <MetadataFile FileName="System.IO.xsd" MetadataType="Schema" ID="9666f6cb-79ec-49d0-98f4-c7f518c841ce" SourceId="1" SourceUrl="net.tcp://tardis:8733/ChatProvider/mex" />
+    <MetadataFile FileName="System.xsd" MetadataType="Schema" ID="38480cd0-7752-4c73-8c6b-bea0cf708b40" SourceId="1" SourceUrl="net.tcp://tardis:8733/ChatProvider/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="c123c674-9418-4e33-bddb-f65904990e40" SourceId="1" SourceUrl="net.tcp://tardis:8733/ChatProvider/mex" />
+    <MetadataFile FileName="Contracts.xsd" MetadataType="Schema" ID="c63b9116-b46b-43bc-b69b-cf3477329478" SourceId="1" SourceUrl="net.tcp://tardis:8733/ChatProvider/mex" />
+    <MetadataFile FileName="Arrays.xsd" MetadataType="Schema" ID="e85ac66f-27ea-43be-bf59-fc4272cabfde" SourceId="1" SourceUrl="net.tcp://tardis:8733/ChatProvider/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

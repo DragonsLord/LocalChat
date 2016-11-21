@@ -1,0 +1,17 @@
+F:\Projects\Chat\ChatClient\bin\Debug\ChatClient.exe.config
+F:\Projects\Chat\ChatClient\bin\Debug\ChatClient.exe
+F:\Projects\Chat\ChatClient\bin\Debug\ChatClient.pdb
+F:\Projects\Chat\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+F:\Projects\Chat\ChatClient\obj\Debug\MainWindow.baml
+F:\Projects\Chat\ChatClient\obj\Debug\MainWindow.g.cs
+F:\Projects\Chat\ChatClient\obj\Debug\App.g.cs
+F:\Projects\Chat\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+F:\Projects\Chat\ChatClient\obj\Debug\ChatClient.g.resources
+F:\Projects\Chat\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+F:\Projects\Chat\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+F:\Projects\Chat\ChatClient\obj\Debug\ChatClient.exe
+F:\Projects\Chat\ChatClient\obj\Debug\ChatClient.pdb
+F:\Projects\Chat\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+F:\Projects\Chat\ChatClient\obj\Debug\DownloadButton.baml
+F:\Projects\Chat\ChatClient\obj\Debug\DownloadButton.g.cs
+F:\Projects\Chat\ChatClient\obj\Debug\GeneratedInternalTypeHelper.g.cs

@@ -1,0 +1,5 @@
+F:\Projects\Chat\ClientContract\bin\Debug\ClientContract.dll
+F:\Projects\Chat\ClientContract\bin\Debug\ClientContract.pdb
+F:\Projects\Chat\ClientContract\obj\Debug\ClientContract.csprojResolveAssemblyReference.cache
+F:\Projects\Chat\ClientContract\obj\Debug\ClientContract.dll
+F:\Projects\Chat\ClientContract\obj\Debug\ClientContract.pdb
